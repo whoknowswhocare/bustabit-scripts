@@ -1,7 +1,7 @@
 /****
-ALEX SANCHEZ STRATEGY
+Lucky phucker STRATEGY
 
-Easy peasy strategy: increase the cashOut value on every loss keeping the same betSize. 
+Easy peasy strategy: increase the cashout value on every loss keeping the same betsize. 
 Once we win start a new session.
 
 ********/
